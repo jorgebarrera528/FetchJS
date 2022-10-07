@@ -1,0 +1,7 @@
+[
+    {"id": 1 ,"descripcion": "Cargador de Celular", "precio": 10000},
+    {"id": 2 ,"descripcion": "Audifono", "precio": 15000},
+    {"id": 3 ,"descripcion": "SmartWatch", "precio": 5000},
+    {"id": 4,"descripcion": "Mouse", "precio": 7000},
+    {"id": 5 ,"descripcion": "Teclado", "precio": 11000}
+]
